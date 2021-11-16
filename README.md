@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Meu nome é Leonardo! Bem-Vindo ao Meu Perfil</h2>
 <h3 align="center">Desenvolvedor Delphi</h3>
 <h4 align="center">
-  Olá, tenho 22 anos e sou Desenvolvedor Delphi e estudo Desenvolviemnto WEB no tempo livre!
+  Olá, tenho 22 anos e sou Desenvolvedor Delphi e estudo Desenvolvimento WEB no tempo livre!
 </h4>
 
 - 🔭 Trabalho com **Desenvolvimento Delphi**
@@ -27,7 +27,7 @@
 
 <p align="center">
   Banco de Dados que Trabalho e já utilzei: <br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </p>
@@ -45,13 +45,15 @@
  💻 Meu Computador: <br>
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/AMD-Ryzen_3_1300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="	https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 
 </p>
 <p align="center">
  💻 Meus Aplicativos <br>
   🌐 Navegador: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
+  <br>
+  ✍️ IDE: <a htef="https://www.embarcadero.com/br/products/rad-studio"><img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"></a>
   <br>
   👨‍💻 Code: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <br>
