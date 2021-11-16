@@ -8,10 +8,10 @@
 
 ### Entre em contato comigo:
 
-<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="30px" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <br />
@@ -24,7 +24,7 @@
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
