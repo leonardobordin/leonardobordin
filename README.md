@@ -52,20 +52,17 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 
 </p>
-<p align="center">
+<p align="center" vertical-align="baseline">
  💻 Meus Aplicativos <br>
   🌐 Navegador: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
   <br>
   ✍️ IDE: <a htef="https://www.embarcadero.com/br/products/rad-studio"><img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"></a>
   <br>
   👨‍💻 Code: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
-  <br>
-  📹 Editor de Fotos: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"></a>
 </p>
 <br />
-<br />
-<div align="center">
+<div align="center" >
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardobordin&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobordin&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobordin&layout=compact&langs_count=7&theme=outrun"/>
 </div>
