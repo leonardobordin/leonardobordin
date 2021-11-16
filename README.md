@@ -8,10 +8,10 @@
 
 ### Entre em contato comigo:
 
-[<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+[<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 <br />
