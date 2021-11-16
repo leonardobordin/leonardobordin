@@ -29,7 +29,7 @@
   Banco de Dados que Trabalho e já utilzei: <br>
   
   
-  <img weight="75px" height="25px" src="https://user-images.githubusercontent.com/83251822/142080138-1e29483f-6ed6-4bb5-9965-941be5d6f195.png">
+  <img weight="75px" height="30px" src="https://user-images.githubusercontent.com/83251822/142080138-1e29483f-6ed6-4bb5-9965-941be5d6f195.png">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
