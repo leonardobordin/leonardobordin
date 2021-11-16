@@ -1,12 +1,12 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Meu nome é Leonardo! Bem-Vindo ao Meu Perfil</h2>
 <h3 align="center">Desenvolvedor Delphi</h3>
 <h4 align="center">
-  Olá, tenho 22 anos e sou Desenvolvedor Delphi e estudo Desenvolvimento WEB no tempo livre!
+  Olá, tenho 22 anos e sou Desenvolvedor Delphi formando em Gestão da Tecnologia da Informação!
 </h4>
 
 - 🔭 Trabalho com **Desenvolvimento Delphi**
 
-- 🌱 No tempo livre estudo Desenvimento WEB: **HTML, CSS, JavaScript, PHP, Python**
+- 🌱 No tempo livre estudo Desenvolvimento WEB: **HTML, CSS, JavaScript, PHP, Python**
 
 - 👨‍💻 Todos meu projetos publicos estão em [github.com/leonardobordin](https://github.com/leonardobordin)
 
@@ -53,13 +53,10 @@
 
 </p>
 <p align="center" vertical-align="baseline">
- 💻 Meus Aplicativos <br>
-  🌐 Navegador: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
-  <br>
-  ✍️ IDE: <a htef="https://www.embarcadero.com/br/products/rad-studio"><img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"></a>
-  <br>
-  👨‍💻 Code: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
-</p>
+ 💻 Editores de Codigo: <br>
+<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+<img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1">
+
 <br />
 <div align="center" >
   <a href="https://github.com/rafaballerini">
