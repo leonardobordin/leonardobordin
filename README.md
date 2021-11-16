@@ -6,19 +6,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobordin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Entre em contato comigo:
+### Minhas redes sociais:
 
-<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="100px" heght="40px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="100px" heght="40px"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="100px" heght="40px"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="100px" heght="40px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <br />
 
 ### Linguagens e Ferramentas:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="30px" heght="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
