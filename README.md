@@ -8,11 +8,11 @@
 
 - 🌱 No tempo livre estudo Desenvolvimento WEB: **HTML, CSS, JavaScript, PHP, Python**
 
-- 👨‍💻 Todos meu projetos publicos estão em [github.com/leonardobordin](https://github.com/leonardobordin)
+- 👨‍💻 Todos os meus projetos públicos estão em [github.com/leonardobordin](https://github.com/leonardobordin)
 
-- 💬 Fique a vontade para me perguntar sobre: **Delphi, Pascal, Firebird, MySQL, Postgress**
+- 💬 Fique à vontade para me perguntar sobre: **Delphi, Pascal, Firebird, MySQL, Postgress**
 
-- 📫 Caso queira ter acesso a mim facilmente me envie um email **leonardosilvabordin@outlook.com**
+- 📫 Caso precise de mim, fique à vontade para me enviar um e-mail em: **leonardosilvabordin@outlook.com**
 
 <p align="center">
   Linguagens que Trabalho e Estudo: <br>
@@ -27,8 +27,6 @@
 
 <p align="center">
   Banco de Dados que Trabalho e já utilzei: <br>
-  
-  
   <img src="https://img.shields.io/badge/Firebird-FF7200?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -44,20 +42,21 @@
   <a href="https://www.linkedin.com/in/leonardo-bordin-28b090199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/leonardobordin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
 <p align="center">
  💻 Meu Computador: <br>
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/AMD-Ryzen_3_1300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-
 </p>
-<p align="center" vertical-align="baseline">
+
+<p align="center">
  💻 Editores de Codigo: <br>
 <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">
 <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1">
-
 <br />
+  
 <div align="center" >
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardobordin&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
