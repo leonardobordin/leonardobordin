@@ -8,10 +8,10 @@
 
 ### Entre em contato comigo:
 
-<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="30px" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" href="https://www.facebook.com/leonardobord1n/" alt="Leonardo Bordin | Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" href="https://twitter.com/LeonardoBordinN" alt="Leonardo Bordin | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" href="https://www.instagram.com/leonardobord1n/" alt="Leonardo Bordin | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" href="https://www.linkedin.com/in/leonardo-bordin-28b090199/" alt="Leonardo Bordin | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <br />
