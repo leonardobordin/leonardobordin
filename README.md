@@ -15,9 +15,13 @@
 - 📫 Caso precise de mim, fique à vontade para me enviar um e-mail em: **leonardosilvabordin@outlook.com**
 
 <p align="center">
-  Linguagens que Trabalho e Estudo: <br>
+  Linguagem Principal: <br>
   <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
+<p align="center">
+  Linguagem que estou aprendendo: <br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -26,7 +30,7 @@
 </p>
 
 <p align="center">
-  Banco de Dados que Trabalho e já utilzei: <br>
+  Banco de Dados: <br>
   <img src="https://img.shields.io/badge/Firebird-FF7200?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
