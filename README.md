@@ -6,7 +6,7 @@
 
 - 🔭 Trabalho com **Desenvolvimento Delphi**
 
-- 🌱 No tempo livre estudo Desenvolvimento WEB: **HTML, CSS, JavaScript, PHP, Python**
+- 🌱 No tempo livre estudo outras linguagens: **, GO, C#, JavaScript, PHP, Python**
 
 - 👨‍💻 Todos os meus projetos públicos estão em [github.com/leonardobordin](https://github.com/leonardobordin)
 
@@ -15,18 +15,17 @@
 - 📫 Caso precise de mim, fique à vontade para me enviar um e-mail em: **leonardosilvabordin@outlook.com**
 
 <p align="center">
-  Linguagem Principal: <br>
+  Linguagens Principais: <br>
   <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
 </p>
 
 <p align="center">
   Linguagem que estou aprendendo: <br>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
 <p align="center">
@@ -35,6 +34,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
 
 
