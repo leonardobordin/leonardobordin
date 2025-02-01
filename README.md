@@ -6,7 +6,7 @@
 
 - 🔭 Trabalho com **Desenvolvimento Delphi**
 
-- 🌱 No tempo livre estudo outras linguagens: **, GO, C#, JavaScript, PHP, Python**
+- 🌱 No tempo livre estudo outras linguagens: **GO, C#, JavaScript, PHP, Python**
 
 - 👨‍💻 Todos os meus projetos públicos estão em [github.com/leonardobordin](https://github.com/leonardobordin)
 
