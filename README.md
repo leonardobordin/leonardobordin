@@ -16,7 +16,7 @@
 - 🌱 Sempre estudando e explorando novas tecnologias
 - 💬 Pode me perguntar sobre: **Delphi, Lazarus, Pascal, Firebird, PostgreSQL, Go**
 - 📫 Contato: **leonardosilvabordin@outlook.com**
-- 🤖 Utilizo **IA** diariamente como copiloto de desenvolvimento (Copilot, Claude, ChatGPT, Cursor)
+- 🤖 Utilizo **IA** diariamente como copiloto de desenvolvimento (Copilot, Claude, ChatGPT, Gemini)
 - ⚡ Apaixonado por linguagens compiladas e sistemas de alto desempenho
 
 ---
