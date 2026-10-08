@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00ADD8&height=180&section=header&text=Leonardo%20Bordin&fontSize=44&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=620&lines=Ol%C3%A1%2C+sou+o+Leonardo!+%F0%9F%91%8B;Desenvolvedor+Delphi+%2F+Lazarus+%26+Go;Programo+com+IA+todos+os+dias+%F0%9F%A4%96;Formado+em+Gest%C3%A3o+de+TI;Apaixonado+por+performance+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=760&lines=Ol%C3%A1%2C+sou+o+Leonardo!+%F0%9F%91%8B;Desenvolvedor+de+Software+%7C+Go+%7C+C%23+%2F+.NET+%7C+Delphi;IA+aplicada+ao+desenvolvimento+%7C+SDD+%7C+Agentes;Formado+em+Gest%C3%A3o+de+TI;Automa%C3%A7%C3%A3o+e+sistemas+corporativos" alt="Desenvolvedor de software, Go, C#/.NET, Delphi, IA aplicada, SDD e agentes" />
 
 </div>
 
@@ -10,46 +10,56 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Trabalho com **Desenvolvimento Delphi / Lazarus**
+- 🔭 Desenvolvimento de software com foco em **backend, ERP, integrações e automação**
 - 🎓 Formado em **Gestão da Tecnologia da Informação**
 - 🖥️ Setup atual: **Intel Xeon E5-2680 v4 · 48 GB DDR4 ECC  ·  GTX1050Ti**
 - 🌱 Sempre estudando e explorando novas tecnologias
-- 💬 Pode me perguntar sobre: **Delphi, Lazarus, Pascal, Firebird, PostgreSQL, Go**
+- 💬 Pode me perguntar sobre: **Go, C#/.NET, backend, IA aplicada e Spec-Driven Development**
 - 📫 Contato: **leonardosilvabordin@outlook.com**
 - 🤖 Utilizo **IA** diariamente como copiloto de desenvolvimento (Copilot, Claude, ChatGPT, Gemini)
-- ⚡ Apaixonado por linguagens compiladas e sistemas de alto desempenho
+- 🧭 Aplicando **Spec-Driven Development (SDD)** e agentes para organizar requisitos, decisões e validações.
+- ⚡ Interesse em performance, automação e sistemas bem estruturados
+
+---
+
+## 🚀 Projetos em destaque
+
+- 📱 **[KillQR](https://github.com/leonardobordin/KillQR)** — app Android offline-first para ler, gerar e organizar QR Codes e códigos de barras. [Baixar APK](https://github.com/leonardobordin/KillQR/releases/latest).
+- 🖥️ **[ResSync](https://github.com/leonardobordin/ResSync)** — aplicativo Windows que ajusta resolução e taxa de atualização por aplicativo, com controle de Digital Vibrance em GPUs NVIDIA.
+- 🌐 **Medfluent** — projeto pessoal com backend em Go e frontend em React + Vite.
+- 💸 **[Gerador de PIX e QR Code](https://github.com/leonardobordin/Gera-PIX-QRCode-Pascal-Delphi)** — função para gerar PIX estático e seu QR Code.
 
 ---
 
 ## 🚀 Stack Principal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lazarus%20%2F%20FreePascal-003A78?style=for-the-badge&logo=lazarus&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
 </p>
 
 ## 🛠️ Outras Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-## 🗄️ Banco de Dados
+## 🗄️ Banco de Dados e Cloud
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebird-FF7200?style=for-the-badge&logo=databricks&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -59,15 +69,13 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ## 💻 Ambiente de Desenvolvimento
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Delphi%20RAD%20Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lazarus%20IDE-003A78?style=for-the-badge&logo=lazarus&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-0086D1?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
